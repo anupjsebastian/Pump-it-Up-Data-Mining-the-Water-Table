@@ -44,3 +44,5 @@ Final Model
   - Can be found in the file 'XGBoost_with_SMOTE'
   - Had the three different targets ("functional", "functional needs repair" and "non functional").
   - We got an accuracy score of 80.59% (top 15% of competition) 
+  
+There is also a 3rd Model which we attempted, using multiple XGBoost models. It can be found in the file "Multiple_XGBoost_Attempt.ipynb". However it obtained a lower score of 80.15% accuracy compared to the model above.
